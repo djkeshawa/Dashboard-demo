@@ -1,0 +1,47 @@
+.navbar {
+  border-bottom: 0.5px solid #008cd2ad;
+}
+.navbar-brand {
+  font-weight: 900;
+  font-size: 30px;
+  padding-top: 0;
+  padding-bottom: 0;
+  font-family: "Shrikhand", cursive;
+  line-height: 0px;
+  color: #008cd2 !important;
+  /* font-family: "PT Sans", sans-serif; */
+}
+
+.opco-btn {
+  background-color: #ffffff !important;
+  border: 1px solid #56b146 !important;
+  color: #008cd2 !important;
+  border-radius: 10px !important;
+}
+
+.blue-text {
+  color: #008cd2 !important;
+}
+
+.notification-icon {
+  font-size: 24px;
+  padding: 0.1em 0.7em;
+  margin-left: 0.5em;
+}
+
+.breadcrump-div {
+  border-bottom: 0.5px solid #008cd2ad;
+  width: 100%;
+}
+
+.breadcrump-item {
+  color: #19161666;
+}
+
+.breadcrump-arrow {
+  margin-left: 1.5em;
+}
+
+/* breadcrump css start */
+
+/* breadcrups css ends */
